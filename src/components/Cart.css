@@ -1,0 +1,10 @@
+.details-container{
+    display: flex;
+    flex-direction: column;
+    /* text-align: left; */
+    background-color: azure;
+    height: 200px;
+    max-width: 500px;
+    margin: 10px;
+    border: 2px solid black;
+}

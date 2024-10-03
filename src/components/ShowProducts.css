@@ -1,0 +1,21 @@
+.product-container{
+    display: flex;
+    flex-direction: row;
+    width: 550px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin: 10px;
+    gap: 10px;
+}
+.prod-img{
+    height: 150px;
+    width: 150px;
+}
+.product-container button {
+    max-height: 100px;
+    width: 100px;
+    /* border: none; */
+    border-radius: 10px;
+    margin: 5px;
+    background-color: white;
+}
